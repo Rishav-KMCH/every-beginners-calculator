@@ -15,7 +15,7 @@ The code is 100% made by me, the explanation is slightly AI with me rephrasing a
 If you don't like this project, you can leave.
 
 ## 💻 How to install
-- **Straightforward:** Go to the releases tab and get the ZIP.
+- **Straightforward:** Go to the [releases](https://github.com/Rishav-KMCH/every-beginners-calculator/releases/) tab and get the ZIP.
 - **Torrents:** It does have a torrent for barely 20 kilobytes of information, you can use it, if you're into that kind of thing.
 - **Compile from source:** Use the command in the `Compile from source` section.
 
