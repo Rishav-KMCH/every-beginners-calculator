@@ -26,3 +26,11 @@ git clone https://github.com/Rishav-KMCH/every-beginners-calculator --depth=1
 ```
 
 You can remove `--depth=1` to get all the commits.
+
+## ⌨ How to run
+Run this once you've got the files:
+```bash
+python3 calculator(-explained).py
+```
+
+You can run the `-explained` one, but kinda pointless as it just gives the same output as the first one.
